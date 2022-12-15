@@ -1,0 +1,75 @@
+body{
+    margin:0px;
+    padding: 0px;
+}
+.type1{
+    display: block;
+    margin: 0px auto;
+}
+.type2{
+    position: absolute;
+    width: 10%;
+    left: 30%;
+}
+.type3{
+    position: absolute;
+    width: 10%;
+    left: 40%;
+}
+.type4{
+    position: absolute;
+    width: 10%;
+    left: 50%;
+}
+.type5{
+    position: absolute;
+    width: 10%;
+    left: 60%;
+}
+.tag1{
+    position: absolute;
+    width: 10%;
+    left: 30%;
+}
+.tag2{
+    position: absolute;
+    width: 10%;
+    left: 40%;
+}
+.tag3{
+    position: absolute;
+    width: 10%;
+    left: 50%;
+}
+.tag4{
+    position: absolute;
+    width: 10%;
+    left: 60%;
+}
+.rectangle{
+    display: block;
+    margin: 0px auto;
+}
+.wrapper{
+    position: absolute;
+    top: 53%;
+    left: 47%;  
+}
+.wrapper1{
+    position: absolute;
+    top: 53%;
+    left: 44%;  
+}
+.invis{
+    opacity: 0;
+}
+.nice{
+    display: block;
+    margin: 0px auto;
+    width: 10%;
+}
+.typeb{
+    display: block;
+    margin: 0px auto;
+    width: 30%;
+}
